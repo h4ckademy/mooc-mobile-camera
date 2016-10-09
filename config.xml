@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.h4ckademy.camera" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Camera</name>
+    <description>
+        Una aplicación simple de PhoneGap que usa la cámara y aplica filtros a la imagen resultante
+    </description>
+    <author email="h4@h4ckademy.com" href="http://h4ckademy.com">
+        PhoneGap Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

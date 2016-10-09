@@ -1,0 +1,21 @@
+{
+  "name": "camera",
+  "version": "1.0.0",
+  "description": "Camera and filters app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h4ckademy/MOOC-camera.git"
+  },
+  "author": "h4ckademy",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "bugs": {
+    "url": "http://h4ckademy.com"
+  },
+  "homepage": "http://h4ckademy.com"
+}
