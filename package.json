@@ -4,7 +4,7 @@
   "description": "Camera and filters app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/h4ckademy/MOOC-camera.git"
+    "url": "https://github.com/h4ckademy/mooc-mobile-camera.git"
   },
   "author": "h4ckademy",
   "license": "Apache-2.0",
