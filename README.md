@@ -6,7 +6,7 @@ Una aplicación simple de PhoneGap que usa la cámara y aplica filtros a la imag
 
 Servimos la aplicación móvil usando
 
-    phonegap create my-app
+    phonegap serve
 
 Y luego accedemos desde [PhoneGap Developer App](http://docs.phonegap.com/getting-started/2-install-mobile-app/)
 
