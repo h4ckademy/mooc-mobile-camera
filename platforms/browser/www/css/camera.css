@@ -23,11 +23,11 @@ body {
 }
 
 #foto{
+  width: 98%;
   height: 400px;
   border: 1px solid;
   margin: 1%;
   box-sizing: border-box;
-  width: 98%;
 }
 
 .button-container{
@@ -45,4 +45,10 @@ body {
   font-size: large;
   border-radius: 10px;
   background-color: #FD4140;
+}
+
+.button-filter{
+  font-size: medium;
+  width: 6rem;
+  background-color: #7ABAF2;
 }
