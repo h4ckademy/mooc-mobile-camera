@@ -11,7 +11,7 @@
         Una aplicación simple de PhoneGap que usa la cámara y aplica filtros a la imagen resultante
     </description>
     <author email="h4@h4ckademy.com" href="http://h4ckademy.com">
-        PhoneGap Team
+        h4ckademy
     </author>
     <content src="index.html" />
     <access origin="*" />
